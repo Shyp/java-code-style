@@ -1,0 +1,11 @@
+.DS_Store
+
+# Intellij files
+.idea/
+*.ipr
+*.iml
+*.iws
+out/
+.idea_modules/
+atlassian-ide-plugin.xml
+.navigation/
